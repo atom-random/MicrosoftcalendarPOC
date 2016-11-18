@@ -1,0 +1,3 @@
+list of calendars
+
+{\"@odata.context\":\"https://graph.microsoft.com/v1.0/$metadata#users('ad.bradley%40outlook.com')/calendars\",\"value\":[{\"id\":\"AQMkADAwATM3ZmYAZS1kN2QxLTQ1NjAtMDACLTAwCgBGAAADDWbsHiW6ikCJYFIawic4UQcAu4DpyVVo7k2XVYo7Da0gXQAAAgEGAAAAu4DpyVVo7k2XVYo7Da0gXQAAAA0pYbIAAAA=\",\"name\":\"Calendar\",\"color\":\"auto\",\"changeKey\":\"u4DpyVVo7k2XVYo7Da0gXQAADSnqFA==\"}]}
